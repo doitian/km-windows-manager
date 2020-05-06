@@ -7,7 +7,7 @@ The snap move macros have the same logic in the four different directions.
 
 If the window moves along the directory, the side which first hit the screen
 boundary is named as near side, and the opposite side is the far side. For
-example, in the macro "Window Snap Right <kbd>Ctrl + Option + Left<kbd>", the
+example, in the macro "Window Snap Right <kbd>Ctrl + Option + Left</kbd>", the
 right window side is the near side, and the left is the far side.
 
 * (1) If the near side does not near the screen boundary, move the near side
