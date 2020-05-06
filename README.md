@@ -61,7 +61,7 @@ right window side is the near side, and the left is the far side.
 +----------------------------+        +----------------------------+
 ```
 
-* (4) Otherwise, if there's a monitor along the directory, move the window to the
+* (4) Otherwise, if there's a monitor along the direction, move the window to the
    next monitor.
 
 ```
